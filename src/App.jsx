@@ -1,7 +1,6 @@
-// App.jsx
 import React, { useState } from 'react';
-import TaskList from './TaskList'; // Update path
-import AddTaskForm from './AddTaskForm'; // Update path
+import TaskList from './TaskList'; 
+import AddTaskForm from './AddTaskForm'; 
 import { TaskProvider } from './TaskContext';
 
 function App() {
